@@ -1,0 +1,47 @@
+Combined Seasonal, Trading-Day, and Holiday Adjustment Factors for U.S. Retail Sales and Food Services by Kind of Business
+
+   NAICS           Kind of Business                                   Dec 18  Jan 19  Feb 19  Mar 19  Apr 19  May 19  Jun 19  Jul 19  Aug 19  Sep 19  Oct 19  Nov 19  Dec 19  Jan 20  Feb 20  Mar 20  Apr 20
+   code
+                  Retail Sales and Food Services, total                1.132   0.905   0.878   1.010   0.989   1.057   0.996   1.017   1.039   0.950   1.000   1.020   1.129   0.910   0.909   1.000   0.994
+                 Retail Sales, total                                   1.145   0.903   0.873   1.002   0.987   1.057   0.992   1.017   1.038   0.947   0.999   1.027   1.148   0.907   0.904   0.993   0.991
+
+             441 Motor vehicle and parts dealers                       0.995   0.883   0.891   1.073   1.010   1.090   1.016   1.058   1.090   0.957   0.991   0.948   0.991   0.886   0.924   1.057   1.019
+      4411, 4412 Automobile and other motor vehicle dealers            1.000   0.877   0.892   1.077   1.010   1.093   1.016   1.059   1.093   0.956   0.983   0.947   0.995   0.880   0.925   1.059   1.019
+            4413 Automotive parts, acc., and tire stores               0.909   0.933   0.892   1.034   1.021   1.059   1.010   1.054   1.063   0.976   1.065   0.973   0.925   0.931   0.915   1.041   1.025
+             442 Furniture and home furnishings stores                 1.137   0.907   0.874   1.007   0.946   1.022   0.970   1.009   1.048   0.988   1.008   1.092   1.135   0.913   0.904   0.997   0.953
+             443 Electronics and appliance stores                      1.461   0.940   0.867   0.949   0.861   0.935   0.928   0.943   0.993   0.937   0.939   1.242   1.457   0.948   0.894   0.945   0.859
+             444 Building mat. and garden equip. and supp. dealers     0.889   0.827   0.786   0.963   1.115   1.228   1.098   1.093   1.030   0.968   1.053   0.947   0.905   0.827   0.806   0.989   1.120
+            4441 Building mat. and supplies dealers                    0.890   0.838   0.791   0.948   1.074   1.195   1.088   1.109   1.047   0.985   1.062   0.964   0.903   0.835   0.806   0.977   1.083
+             445 Food and beverage stores                              1.084   0.982   0.910   0.998   0.977   1.038   0.997   1.016   1.022   0.962   0.998   1.016   1.070   0.988   0.949   0.978   0.986
+            4451 Grocery stores                                        1.051   0.998   0.918   1.005   0.980   1.039   0.997   1.015   1.023   0.965   1.000   1.012   1.038   1.003   0.956   0.985   0.990
+            4453 Beer, wine, and liquor stores                         1.315   0.845   0.838   0.944   0.930   1.038   1.006   1.048   1.049   0.936   0.985   1.056   1.310   0.859   0.879   0.916   0.935
+             446 Health and personal care                              1.105   0.997   0.932   1.001   0.995   1.022   0.959   0.986   1.004   0.958   1.025   0.986   1.114   1.000   0.957   1.014   0.994
+           44611 Pharmacies and drug stores                            1.072   1.017   0.937   0.989   1.005   1.029   0.954   0.991   0.999   0.952   1.040   0.977   1.081   1.020   0.962   1.003   1.004
+             447 Gasoline stations                                     0.936   0.912   0.850   0.977   1.013   1.088   1.058   1.079   1.084   1.011   1.030   0.959   0.940   0.916   0.879   0.972   1.008
+             448 Clothing and clothing access. stores                  1.535   0.738   0.815   0.986   0.963   1.038   0.941   0.959   1.065   0.880   0.952   1.129   1.526   0.740   0.849   0.963   0.971
+           44811 Men's clothing stores                                 1.337   0.821   0.797   0.961   1.094   1.127   0.991   0.867   0.937   0.989   1.013   1.076   1.312   0.832   0.822   0.945   1.117
+           44812 Women's clothing stores                               1.350   0.727   0.786   1.038   1.047   1.101   0.963   0.933   0.984   0.925   0.987   1.137   1.343   0.737   0.807   1.015   1.051
+            4482 Shoe stores                                           1.380   0.711   0.875   1.054   0.975   0.981   0.908   1.003   1.300   0.869   0.896   1.027   1.371   0.719   0.912   1.024   0.988
+           44831 Jewelry stores                                        2.253   0.695   0.940   0.824   0.885   1.100   0.865   0.859   0.893   0.800   0.868   1.054   2.220   0.701   0.982   0.808   0.875
+             451 Sporting goods, hobby, musical inst., and book stor   1.466   0.873   0.794   0.955   0.928   0.963   0.971   0.976   1.132   0.930   0.945   1.102   1.423   0.878   0.830   0.933   0.928
+             452 General merchandise stores                            1.328   0.872   0.861   0.982   0.949   1.021   0.980   0.972   1.027   0.915   0.978   1.107   1.302   0.882   0.897   0.963   0.962
+            4521 Department stores                                     1.668   0.760   0.801   0.928   0.906   0.991   0.935   0.929   1.022   0.876   0.941   1.206   1.670   0.770   0.836   0.906   0.930
+           45291 Warehouse clubs and superstores                       1.233   0.903   0.878   1.000   0.953   1.025   0.995   0.983   1.037   0.922   0.983   1.085   1.211   0.912   0.915   0.978   0.959
+           45299 All other gen. merchandise stores                     1.266   0.880   0.877   0.980   0.978   1.044   0.985   0.964   0.984   0.931   1.007   1.072   1.266   0.880   0.902   0.971   0.996
+             453 Miscellaneous stores retail                           1.090   0.876   0.861   0.948   0.972   1.131   1.017   1.014   1.053   0.967   1.067   1.033   1.092   0.879   0.888   0.942   0.970
+             454 Nonstore retailers                                    1.363   0.956   0.880   0.970   0.957   0.979   0.901   0.965   0.950   0.914   0.986   1.110   1.414   0.947   0.893   0.980   0.948
+            4541 Electronic shopping and mail order houses             1.384   0.926   0.858   0.955   0.956   0.981   0.910   0.976   0.958   0.919   0.984   1.119   1.441   0.917   0.870   0.972   0.946
+           45431 Fuel dealers                                          1.398   1.629   1.391   1.251   0.908   0.745   0.594   0.627   0.657   0.695   0.931   1.084   1.458   1.650   1.386   1.277   0.896
+             722 Food services and drinking places                     1.020   0.921   0.913   1.059   1.006   1.062   1.027   1.019   1.048   0.968   1.005   0.969   1.004   0.928   0.949   1.034   1.003
+
+Note:  Estimates are adjusted for seasonal variations and holiday and trading-day differences.  Each month, new factors are developed using the latest estimates and applied to the not adjusted advance,
+preliminary, and final estimates and to the estimates of the previous year that correspond to the advance and preliminary months.  The sales adjustment factors are not included in this table for
+those kinds of business for which adjusted estimates are not shown separately.  Adjusted sales estimates are obtained by dividing the not adjusted estimates by the adjustment factors shown above for
+corresponding kinds of business.  Adjusted estimates for the summary trade totals are obtained by summarizing the adjusted estimates for the individual kind of business.  The options used to derive factors
+for each kind of business were selected during the last benchmarking operation and will not be subject to modification until the next benchmarking operation.  These options are available upon request.
+
+SOURCE: MONTHLY RETAIL TRADE SURVEY
+        RETAIL INDICATORS BRANCH
+        U.S. CENSUS BUREAU
+
+Last Revised: March 17, 2020
